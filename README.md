@@ -29,3 +29,5 @@ The `h` script is [copied](https://github.com/typicode/husky/blob/0692639896ea5b
 Various hooks are [copied](https://github.com/typicode/husky/blob/0692639896ea5b5dd5ffc607575f6f870b21cb0f/index.js#L22) to `.husky/_`.
 
 `husky.sh` is [copied](https://github.com/typicode/husky/blob/0692639896ea5b5dd5ffc607575f6f870b21cb0f/index.js#L23) to `.husky/_`.
+
+`husky init` results in the following directory structure [here](https://github.com/uraitakahito/hello-husky/tree/7c37969c7a870c4a29e96d179ef76784d553ebec/.husky).
