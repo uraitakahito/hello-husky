@@ -1,0 +1,15 @@
+{
+  "name": "hello-husky",
+  "version": "1.0.0",
+  "description": "This is a repository to try out [husky](https://github.com/typicode/husky).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Success",
+    "prepare": "husky"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "husky": "^9.1.7"
+  }
+}
